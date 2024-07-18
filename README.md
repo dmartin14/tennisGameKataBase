@@ -7,7 +7,7 @@ Nuestro trabajo consiste en escribir un programa "TennisGame" que contenga la l�
 Cuando un jugador gane un punto, el programa contendrá un método al que se le podrá llamar para poder indicarle qué jugador ha sido el ganador del punto. Además, el sistema recibirá llamadas de las pantallas a un método "score()" que devolverá cuál es el resultado actual. Este método debería devolver un texto con el resultado.
 
 Este es un resumen explicamos cómo funciona el tanteo en tenis, pero si necesitas más información puedes visitar el siguiente
-enlace:
+enlace: https://en.wikipedia.org/wiki/Tennis#Scoring
 
 Un juego se gana cuando uno de los jugadores gana al menos 4 puntos en total y al menos dos puntos más que el oponente.
 El tanteo parcial se lleva de una manera un tanto (¡BOOM!) "especial": respectivamente "Love", "Fifteen", "Thirty", y "Forty".
